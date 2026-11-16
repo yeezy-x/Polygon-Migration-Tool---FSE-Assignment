@@ -2188,3 +2188,11 @@ IndentationError: expected an indented block after function definition on line 1
 [INFO] 2026-11-16 13:17:54,435 polygon_api | Fetching test cases for 631865, testset
 [DEBUG] 2026-11-16 13:17:54,730 views | test_case_count=13
 [INFO] 2026-11-16 13:17:54,730 views | Exiting index view
+[INFO] 2026-11-16 14:02:31,313 views | Entered index view with method=GET
+[INFO] 2026-11-16 14:02:31,315 views | Exiting index view
+[INFO] 2026-11-16 14:07:48,571 views | Entered index view with method=GET
+[INFO] 2026-11-16 14:07:48,573 views | Exiting index view
+[INFO] 2026-11-16 15:00:33,602 views | Entered index view with method=GET
+[INFO] 2026-11-16 15:00:33,607 views | Exiting index view
+[INFO] 2026-11-16 15:27:10,559 views | Entered index view with method=GET
+[INFO] 2026-11-16 15:27:10,599 views | Exiting index view
